@@ -1,4 +1,7 @@
-# FULL_ADDER_SUBTRACTOR
+# FULL ADDER SUBTRACTOR
+
+## NAME:- JAIYANTAN S
+## REG_NO:-  212224100021
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
